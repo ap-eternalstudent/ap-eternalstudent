@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anton, a fullstack software engineer! 
 - 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on anything CRUD
-- 📫 How to reach me ap.eternalstudent@gmail.com
+- 📫 How to reach me a.eternalstudent@gmail.com
